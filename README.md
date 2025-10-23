@@ -1,1 +1,1 @@
-# pair-work-data_gathering
+# COVID-19 statistics for different countries
